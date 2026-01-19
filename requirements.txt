@@ -1,3 +1,5 @@
+To download the following packages, run pip install command
+
 streamlit
 groq
 numpy
