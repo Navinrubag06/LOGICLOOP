@@ -1,4 +1,4 @@
-To download the following packages, run pip install command
+**To download the following packages, run pip install command
 
 streamlit
 groq
